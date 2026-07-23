@@ -1,5 +1,5 @@
 # Project Name
- City Park Explorer
+City Park Explorer
 
 ## 1. Overview
 **City Park Explorer** is a web application that allows users to explore, review, and favorite parks in New York City.  
